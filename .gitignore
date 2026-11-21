@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.exe
+*.zip
+*.ogg
+*.png
+*.json
+*.pkl
