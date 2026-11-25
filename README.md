@@ -2,6 +2,12 @@
 
 **⬇️ 成品下载：[Releases 页面](../../releases)**（各引擎版本的完整 zip，下载后按说明放进对应游戏）
 
+### 🎵 音频更新（2026-11-25）
+
+Release v11.33 新增 **`dk-duet-audio-enhanced-v2.zip`**：增强部分人声 + 背景低音增益的 Double Kill 音频。
+含 `Inst.ogg` / `Voices.ogg`（NF/NVE 直接用，覆盖 `mods/VSImpostorLegacy_NVE/songs/double-kill/`）
+及无损 `in.wav` / `vo.wav` 源文件（289.28s，44.1kHz 立体声 16bit）。
+
 基于 Vs Impostor 的 `Double Kill` 曲目深度改造的 FNF 模组。原曲是 BF vs Black Impostor 的对唱，本项目把它扩展成 **Momo / Miku 与 Teto 的双人轮唱 + 合唱**，并加了 Infant / GOD / GOD+ 多难度、DK Trap / DK Warn 特殊机制、BOTPLAY Pro 模拟按键、评分贴图、输入 HUD 等大量定制。这是从 2026-11-08 到 11-21 连续迭代 30+ 版本的最终成果，全部源码与构建脚本开源于此。
 
 ## ⭐ 核心技术：唱者分流（这是整个项目最难的部分）
